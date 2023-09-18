@@ -1,0 +1,153 @@
+[
+  {
+    "roles": "administrator",
+
+    "title": "Cyber-Security",
+    "level": "intermediate",
+
+    "year": 2022
+  },
+  {
+    "roles": "business-user",
+    "title": "Cloud-Solutions",
+    "level": "beginners",
+
+    "year": 2020
+  },
+  {
+    "roles": "developer",
+
+    "title": "DSA",
+    "level": "beginners",
+
+    "year": 2021
+  },
+  {
+    "roles": "developer",
+
+    "title": "Microsoft-authentication",
+    "level": "intermediate",
+
+    "year": 2022
+  },
+  {
+    "roles": "administrator",
+
+    "title": "Azure-Express-Route",
+    "level": "intermediate",
+
+    "year": 2019
+  },
+  {
+    "roles": "data-scientist",
+
+    "title": "DevOps-Principle",
+    "level": "beginner",
+
+    "year": 2021
+  },
+  {
+    "roles": "student",
+
+    "title": "cryptography",
+    "level": "beginner",
+
+    "year": 2020
+  },
+  {
+    "roles": "administrator",
+
+    "title": "Azure-AI",
+    "level": "advance",
+
+    "year": 2019
+  },
+  {
+    "roles": "data-scientist",
+
+    "title": "DevOps-Python",
+    "level": "intermediate",
+
+    "year": 2021
+  },
+  {
+    "roles": "data-analyst",
+
+    "title": "Working-R",
+    "level": "beginner",
+
+    "year": 2020
+  },
+  {
+    "roles": "developer",
+
+    "title": "Amazon-AWS",
+    "level": "beginner",
+
+    "year": 2019
+  },
+  {
+    "roles": "data-scientist",
+
+    "title": "MS-Excel",
+    "level": "intermediate",
+
+    "year": 2021
+  },
+  {
+    "roles": "data-analyst",
+
+    "title": "Tableaue",
+    "level": "beginner",
+
+    "year": 2020
+  },
+  {
+    "roles": "administrator",
+
+    "title": "Kali-Linux",
+    "level": "intermediate",
+
+    "year": 2019
+  },
+  {
+    "roles": "data-scientist",
+
+    "title": "TensorFlow",
+    "level": "intermediate",
+
+    "year": 2021
+  },
+  {
+    "roles": "business-user",
+
+    "title": "Customer-Service",
+    "level": "beginner",
+
+    "year": 2020
+  },
+  {
+    "roles": "business-user",
+
+    "title": "Marketing",
+    "level": "beginner",
+
+    "year": 2019
+  },
+  {
+    "roles": "data-scientist",
+
+    "title": "NLP",
+    "level": "intermediate",
+
+    "year": 2021
+  },
+  {
+    "roles": "data-analyst",
+
+    "title": "Pandas",
+    "level": "beginner",
+
+    "year": 2020
+  }
+]
