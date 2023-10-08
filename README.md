@@ -1,6 +1,6 @@
 # Course_api
-API for CoursePlaza
-##This is for CoursePlaza store
+API for CoursePlaza 
+##This is for CoursePlaza store containing a list of modules.
 - First, launch this api
 - Second, change the url in CoursePlaza/utils/index.ts
   - const response = await fetch(
